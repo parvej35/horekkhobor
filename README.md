@@ -7,7 +7,7 @@ This news portal is developed using PHP, Codeigniter, HTML, CSS, jQuery, MySQL d
 # Source Code
 Please contact with parvej35@gmail.com
 
-# Project URL : 
+# Project URL
 https://horekkhobor.com/
 
 Thank you.
